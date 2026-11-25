@@ -66,7 +66,7 @@
 
 Agentsvc.io is a pay‑per‑call API marketplace that enables AI agents to purchase a wide range of web services on demand. It offers over 127 endpoints covering web scraping, content summarization, data extraction, citation, document conversion, compliance checks, crypto data, and more, all billed in USDC across multiple blockchains. The platform requires no account or API key, providing instant access via the x402 payment protocol.
 
-**Areas:** AI · Marketplace · Payments · Web Services · Agents
+**Areas:** Artificial Intelligence · Marketplace · Payments · Web Services · Agents
 
 ## Agentsvc on APIs.io
 
@@ -80,19 +80,25 @@ Everything profiled for Agentsvc is published on APIs.io rather than in this rep
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [agentssvc-io-mcp.yml](https://apis.io/servers/agentsvc-io/agentssvc-io-mcp-yml/)
+
 #### Security (3)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentsvc Io Authentication](https://apis.io/security/agentsvc-io/agentsvc-io-authentication/)
-- [Agentsvc Io Domain Security](https://apis.io/security/agentsvc-io/agentsvc-io-domain-security/)
-- [Agentsvc Io Vulnerability Disclosure](https://apis.io/security/agentsvc-io/agentsvc-io-vulnerability-disclosure/)
+- [Agentsvc Authentication](https://apis.io/security/agentsvc-io/agentsvc-io-authentication/)
+- [Agentsvc Domain Security](https://apis.io/security/agentsvc-io/agentsvc-io-domain-security/)
+- [Agentsvc Vulnerability Disclosure](https://apis.io/security/agentsvc-io/agentsvc-io-vulnerability-disclosure/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Agentsvc Io Plans Pricing](https://apis.io/plans/agentsvc-io/agentsvc-io-plans-pricing/)
+- [Agentsvc Plans Pricing](https://apis.io/plans/agentsvc-io/agentsvc-io-plans-pricing/)
 
 ## Where to find this API
 
@@ -106,18 +112,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 23.7** — emerging · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 25.6** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 61.7 |
+| Discoverability | 78.3 |
 | Contract quality | 0.0 |
-| Contract governance | 16.4 |
-| Operational transparency | 10.5 |
+| Contract governance | 4.5 |
+| Operational transparency | 9.5 |
 | Developer ergonomics | 26.2 |
-| Access clarity | 40.0 |
+| Access clarity | 48.9 |
 
-**Agent readiness 26.8** — agent-aware
+**Agent readiness 27.1** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -142,6 +148,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | yes |
 
 **Regulatory alignment 25.8** — Payments
 
